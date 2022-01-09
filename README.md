@@ -1,6 +1,6 @@
 ### Olá Mundo  👋
 
-- 🔭 I’m currently working on Clearsake
+- 🔭 I’m currently working on Clearsale
 - 🌱 I’m currently learning Node.js
 - 😄 Pronouns: Ele/Dele
 
