@@ -22,8 +22,6 @@
  <a href="https://steamcommunity.com/id/jooj0343" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/victor-adelmo-silva-oliveira-a38882167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-      ![Snake animation](https://github.com/VictorAdelmo/VictorAdelmo/blob/output/github-contribution-grid-snake.svg)
-
   </div>
   
 
