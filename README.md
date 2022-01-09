@@ -17,14 +17,15 @@
   <img align="center" alt="Vic-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
    <br>
+  
   <div> 
   <a href="https://www.instagram.com/lil.vic03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/jooj0343" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/victor-adelmo-silva-oliveira-a38882167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  </div>
-  
+   
+ ![Snake animation](https://github.com/VictorAdelmo/VictorAdelmo/blob/output/github-contribution-grid-snake.svg)
 
+  </div>
 <!--
 **VictorAdelmo/VictorAdelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
