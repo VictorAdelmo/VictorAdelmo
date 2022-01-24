@@ -1,8 +1,11 @@
 ### Olá Mundo  👋
 
 - 🔭 I’m currently working on Clearsale
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Cloud
 - 😄 Pronouns: Ele/Dele
+
+Java, Node.js, Android Studio, MySQL
+
 
 <div align="center">
   <a href="https://github.com/VictorAdelmo">
